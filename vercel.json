@@ -2,17 +2,13 @@
   "version": 2,
   "routes": [
     {
-      "src": "/api/(.*)",
-      "dest": "/dist/index.js"
-    },
-    {
       "src": "/(.*)",
       "dest": "/dist/public/$1"
     }
   ],
   "functions": {
-    "dist/index.js": {
-      "maxDuration": 30
+    "api/contact.js": {
+      "maxDuration": 10
     }
   }
 }
