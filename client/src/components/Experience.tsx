@@ -1,7 +1,11 @@
 import React from "react";
 import { Building, Smartphone, Shield, Laptop } from "lucide-react";
 import ciscoImg from "@assets/image_1755139491585.png";
-import asanaImg from "@assets/image_1755139499226.png";
+import ciscoImg2 from "@assets/image_1755139499226.png";
+import asanaImg from "@assets/v1.png";
+import asanaImg2 from "@assets/v2.png";
+
+
 
 export function Experience() {
   const experiences = [
@@ -16,10 +20,12 @@ export function Experience() {
         "Led UI/UX design using wireframes, prototypes, and usability testing to validate workflows",
         "Developed AngularJS components and services for interactive dashboards",
         "Implemented responsive layouts with HTML5, CSS3, and Bootstrap",
-        "Enhanced portal performance through lazy loading and pagination optimization"
+        "Enhanced portal performance through lazy loading and pagination optimization",
+        "Migrated legacy UI Pages into responsive AngularJS-based ServiceNow widgets with optimized layouts for cross-device compatibility."
       ],
-      technologies: ["Angular", "TypeScript", "ServiceNow", "Material UI"],
-      image: ciscoImg
+      technologies: ["Angular", "Figma", "TypeScript", "ServiceNow", "Material UI"],
+      image: ciscoImg,
+      image2: ciscoImg2
     },
     {
       title: "UI/UX Designer",
@@ -30,12 +36,15 @@ export function Experience() {
       color: "red",
       description: [
         "Designed intuitive customer service interfaces with React and Material-UI",
+        "Integrated Angular services with REST APIs and ServiceNow endpoints for incident and request data retrieval.",
         "Improved user experience through comprehensive UX research and testing",
+        "Used Figma and Sketch for wireframing, prototyping, and stakeholder reviews.",
         "Implemented responsive design patterns for mobile-first approach",
         "Collaborated with cross-functional teams to deliver user-centered solutions"
       ],
-      technologies: ["React", "Material-UI", "Figma", "User Research"],
-      image: asanaImg
+      technologies: ["Angular", "React", "ServiceNow", "Material-UI", "Figma", "User Research"],
+      image: asanaImg,
+      image2: asanaImg2
     },
     {
       title: "UI/UX Developer",

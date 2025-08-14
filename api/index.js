@@ -29,16 +29,16 @@ const storage = new MemStorage();
 // Validation function
 function validateContact(data) {
   const { name, email, subject, message } = data;
-  
+
   if (!name || !email || !subject || !message) {
     throw new Error('Missing required fields: name, email, subject, and message are required');
   }
-  
+
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   if (!emailRegex.test(email)) {
     throw new Error('Invalid email format');
   }
-  
+
   return { name, email, subject, message };
 }
 
@@ -54,7 +54,7 @@ app.use((req, res, next) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET,OPTIONS,PATCH,DELETE,POST,PUT');
   res.setHeader('Access-Control-Allow-Headers', 'X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version');
-  
+
   if (req.method === 'OPTIONS') {
     res.status(200).end();
     return;
