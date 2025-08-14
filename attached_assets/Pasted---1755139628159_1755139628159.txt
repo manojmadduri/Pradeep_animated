@@ -1,0 +1,228 @@
+                                                                                                                                                                                                     Email: pradeeppathi363@gmail.com
+
+                                                                                                                                                 Contact: (603)810-9541
+Pradeep P	
+Sr UI/UX Designer
+Professional Summary:
+•	UI Professional with over 8+ years’ experience in developing and designing UI components for Web Based Internet/Intranet, Multi-tier distributed applications using latest Front-End technologies and various open-source frameworks.
+•	Experience with popular front-end frameworks like Next, React, Angular, or Vue, have used TypeScript in conjunction with these frameworks to develop scalable applications.
+•	Skilled in converting existing JavaScript codebases into TypeScript, effectively addressing typing issues and incrementally improving code quality while minimizing disruption to the development process.
+•	Proven track record in UI/UX design, enterprise portal development, and AngularJS-based web applications.
+•	Hands-on experience delivering user-centered solutions in complex enterprise environments across telecom, insurance, and IT service management domains.
+•	Familiarity with ServiceNow platform development and integration, including widget customization and API-based data exchange.
+•	Strong expertise in user-centered design methodologies, wireframing, prototyping, and usability best practices using tools like Figma and Sketch.
+•	Solid background in web development with AngularJS, HTML5, CSS3, and responsive design principles, ensuring accessibility and cross-device compatibility.
+•	Skilled in debugging, troubleshooting, and performance optimization to meet enterprise scalability requirements.
+•	Proficient in engineering Web Components within modern front-end frameworks, focusing on reusability and maintainability.
+•	Excellent collaboration and communication skills, with experience working closely with cross-functional teams including designers, developers, product owners, and business stakeholders.
+•	Experience in building an application with React.JS, Redux and Ext.JS in MVC architecture.
+•	Experience in MEAN Stack development MongoDB, Express, Node and Angular.
+•	Proven experience as a UX/UI Designer with a strong portfolio showcasing design skills and projects. Proficiency in Sketch, Figma, Adobe XD, or similar tools, along with a deep understanding of user-centered design principles and best practices.
+•	Solid knowledge of front-end development (HTML, CSS, JavaScript) and familiarity with Agile/Scrum methodologies. Awareness of accessibility standards and guidelines to ensure inclusive design.
+•	Conducted user interviews, surveys, and usability testing to gather insights that informed design decisions.
+•	Created personas, user journeys, and empathy maps to understand user needs and pain points.
+•	Developed interactive prototypes to demonstrate workflows and validate design decisions with stakeholders.
+•	Created design systems and component libraries to ensure consistency across products.
+•	Excellent communication and teamwork abilities to effectively collaborate with developers, stakeholders, and cross-functional teams in a fast-paced environment.
+•	Ability to manage multiple projects simultaneously, meet deadlines, and adapt to changing priorities while maintaining high-quality design standards.
+•	Design and Human-Computer Interaction, or a related field, with 3+ years of hands-on experience in UX/UI design.
+•	Extensive experience in various UI widgets using JavaScript Frameworks and developing Rich Internet Applications RIA. Implemented modular code structure using ES6 modules, promoting code reuse and maintainability.
+•	Develop a frontend interface for a customer service platform, enabling agents to handle customer inquiries and requests. Implemented features like ticketing systems, live chat, and knowledge base integration.
+•	Developed a Mobile application for android and iOS with React Native and phone gap in different projects.
+•	Good knowledge in using Web Services like SOAP protocol in RESTFUL web services Proficient in Object Oriented Design/Development (OOD), Object Oriented Analysis and Design (OOAD), Model View Control (MVC) design pattern and Test-Driven Development (TDD).
+•	Proficient in writing unit, integration, and end-to-end tests, to ensure the quality of the code and skill in
+troubleshooting and debugging complex issues.
+•	Designed intuitive and engaging user interfaces for web and mobile applications, following user-centered design (UCD) principles to enhance user experience.
+•	Created wireframes, interactive prototypes, and high-fidelity UI designs using Figma, ensuring seamless user flows and optimal usability.
+•	Developed and maintained scalable design systems in Figma, implementing reusable components and design tokens for consistency across multiple projects.
+•	Familiarity with UI/UX principles and best practices to ensure intuitive user experience. Worked and collaborated with designers to bring their creative visions to life. Built frameworks on Adobe XD, Figma to design and prototype websites and mobile applications using wireframe models to match client specifications.
+•	Excellent communication skills to discuss the projects with technical and non-technical SME's, analytical and logical programming skills with a good understanding at the conceptual level and possess excellent presentation, interpersonal skills with a strong desire to achieve specified goals.
+
+Technical Skills:
+Languages	HTML, CSS, JavaScript, TypeScript, JSX, SCSS/Sass, less (CSS preprocessor), JSON (JavaScript Object Notation), SQL, PL/SQL.
+Mark-up/XML /UI Technologies	HTML, HTML5, XSLT, JavaScript, JSX, JSON, CSS, CSS3, XML (extensible Markup Language), SVG, JSF, AJAX, jQuery, JSON, Node.js, XSLT, Next.js, React JS, GraphQL.
+Tools & Framework	Bootstrap, Material-UI, Tailwind, React JS, Angular.js, Angular, npm, Form.IO, Webpack, Sass, Less, Stylus, Drupal.
+Services	Web services Microservices, SOA Architecture, SOAP, RESTful, JAX-RS JAX-WS
+Middleware Technologies	Express.js Middleware, Redux Middleware, Cache Middleware, JMS, RabbitMQ, Kafka
+Cloud Platforms	AWS Services: AWS Lambdas, AWS Step Functions, S3, API Gateway, AWS (EC2, EBS, RDS)
+Web/App Servers/Containers	WebSphere, Apache HTTP Server, Tomcat, Nginx, WebLogic, and Docker.
+Databases	MySQL, IBM DB2, Oracle, PostgreSQL, Apace Cassandra, NoSQL MongoDB
+Testing Tools/ Frameworks	Mocha, Cypress, Jasmine, Selenium, SoapUI, JUnit, Mockito, Karma, Cucumber, Playwright
+Version Control Tools	Git, GitLab, GitHub, Bitbucket, SVN, CVS
+Build-Automation Tool (CI)/Issue Tracking Tools Maven	Bitbucket pipelines, Terraform, Gradle, Apache ANT, Jenkins, Travis CI, Hudson, Bamboo, JIRA, GitHub Issues, Asana, Trello, Basecamp
+Wireframe/Prototype Tools	Figma, Axure, Sketch, Photoshop, Adobe XD
+Methodologies	Agile, Scrum, Waterfall, Kanban
+
+
+Education Details:
+Master’s in computer science at Southern Arkansas University – May/2023 Bachelor of Technology at Jawaharlal Nehru Technological University – May/2017
+
+Certification:
+Asana Foundations Skill Badge 
+Project Experience:
+Client: Cisco, CA. [Project name: Cisco Partner Feedback Central [CPFC]]	Mar 2025 – Till Date
+Role: Sr UI/UX Designer Responsibilities:
+
+•	Collaborated with UX designers, product managers, and engineers to translate design concepts into responsive, interactive user interfaces using Angular, Material UI, and TypeScript.
+•	Led UI/UX design using wireframes, prototypes, and usability testing to validate workflows.
+•	Developed AngularJS components, directives, and services for interactive dashboards and forms.
+•	Implemented responsive layouts using HTML5, CSS3, and Bootstrap to ensure cross-device compatibility.
+•	Collaborated with backend teams to integrate REST APIs and optimize front-end performance.
+•	Designed and developed custom ServiceNow Service Portal widgets using AngularJS, GlideAjax, and Script Includes to deliver dynamic, interactive user experiences.
+•	Migrated legacy UI Pages into responsive AngularJS-based ServiceNow widgets with optimized layouts for cross-device compatibility.
+•	Built and configured Service Catalog items, record producers, and order guides with Catalog Client Scripts, UI Policies, and dynamic form rules.
+•	Created and optimized Scripted REST APIs and outbound REST integrations with OAuth 2.0 to connect ServiceNow with HR, CMDB, and directory systems.
+•	Implemented Flow Designer workflows for approvals, SLA management, and automated notifications, replacing legacy workflow processes.
+•	Implemented two-way data binding and dynamic form validations to enhance user interactions within Service Catalog items.
+•	Applied lazy loading and pagination in AngularJS widgets to optimize portal performance.
+•	Integrated AngularJS components with ServiceNow APIs to display CMDB, incident, and request data dynamically.
+•	Built reusable directive-based components to standardize UI behavior and maintain design consistency.
+Enhanced portal performance through lazy loading, pagination, and AngularJS digest cycle optimization, reducing page load time.
+•	Coordinated with product owners, designers, and developers to ensure alignment with business goals.
+•	Designed and developed responsive UIs with server-side rendering (SSR) and static site generation (SSG) using Next.js to optimize performance and user experience across platforms.
+•	Built, tested, and refined modular UI components using HTML5, CSS3, JavaScript (ES6+), and Material UI, ensuring maintainability and design consistency.
+•	Migrated a legacy platform into a cloud-native, modern UI application using AWS, focusing on scalability and usability.
+•	  Defined information architecture and user flows to improve product usability and navigation.
+•	 Simplified complex workflows, increasing task success rate and reducing user friction by 30%+.
+•	 Collaborated with stakeholders and product managers to align design strategy with business goals.
+•	Participated in design reviews, provided feasibility feedback, and collaborated closely with backend teams to integrate RESTful APIs and AWS services like Lambda, SNS, and API Gateway.
+•	Ensured usability, performance, and accessibility of applications through WCAG 2.1 compliance, lazy loading, caching strategies, and comprehensive testing using tools like Axe, NVDA, and WAVE.
+•	Maintained design consistency and branding by developing scalable Figma components, design tokens, and UI libraries following established style guides.
+•	Troubleshot and resolved UI/UX issues across browsers and devices, addressing cross-browser compatibility and responsiveness.
+•	 Ensured WCAG 2.1 compliance to make designs accessible to all users, including those with disabilities.
+•	 Applied UX best practices and HCI principles to create intuitive and inclusive designs.
+•	Conducted UX research, created user personas, and used journey mapping to enhance intuitive design flows.
+•	Created high-fidelity wireframes and interactive prototypes using Figma, Sketch, and Adobe XD with advanced animation and transition features.
+•	Integrated Form.IO to develop dynamic and accessible forms, improving data collection across the platform.
+•	Implemented DevOps best practices using Docker, Terraform, and Jenkins for continuous integration, containerization, and zero-downtime deployments.
+•	Used Asana to track Agile sprints, manage tasks, and collaborate efficiently with product, design, and engineering teams.
+•	Leveraged Power BI to visualize analytics and UX metrics for informed design decisions.
+•	Automated repetitive workflows using Power Automate, improving operational efficiency and productivity.
+•	Integrated Qualtrics for real-time feedback and UX survey analysis to drive user-centered design improvements.
+•	Maintained secure and efficient backend service integration with Node.js, MongoDB, and PostgreSQL, ensuring seamless data exchange.
+•	Participated in Agile/Scrum ceremonies, including daily stand-ups, sprint planning, retrospectives, and test-driven development (TDD).
+Environment: JavaScript, Angular.js, Node.js, XHTML, EXT.js, MySQL, REST API, AWS (EC2, Lambda, S3, RDS, SQS, DynamoDB, CloudFormation), GCP, RWD, SPA, jQuery, AJAX, JSON, Grafana, Figma, Sketch, Adobe Photoshop, SASS, LESS, Agile, Windows.
+
+Client: Verizon, Dallas, Texas.	Feb 2024 – Jan 2025
+Role: UI/UX Designer Responsibilities:
+•	Designed UI/UX flows aligned with user-centered methodologies, focusing on employee productivity.
+•	Created interactive dashboards and workflows in AngularJS integrated with ServiceNow modules.
+•	Used Figma and Sketch for wireframing, prototyping, and stakeholder reviews.
+•	Implemented ServiceNow widget customization and API integrations to display incident, change, and request data in the portal.
+•	Conducted performance optimization by reducing DOM load and leveraging lazy loading techniques.
+•	Worked in Agile sprints, collaborating with cross-functional teams, providing demos, and capturing feedback.
+•	Utilize Material UI for implementing consistent and responsive design components. Develop modular and maintainable code using TypeScript.
+•	Ability to analyze user needs and create intuitive, aesthetically pleasing, and functional designs that enhance the user experience.
+•	Developed responsive Angular components for dashboards, forms, and data tables with optimized state management using RxJS.
+•	Created reusable shared modules and UI components to ensure design consistency across the portal.
+•	Integrated Angular services with REST APIs and ServiceNow endpoints for incident and request data retrieval.
+•	Implemented Angular reactive forms with validation rules for complex multi-step workflows.
+•	Applied Change Detection Strategy and lazy loading for improved application performance and reduced bundle size.
+•	Collaborated with UX designers to translate Figma prototypes into pixel-perfect Angular components.
+•	Strong understanding of UX research, user personas, journey mapping, and usability testing to drive design decisions.
+•	Familiarity with front-end technologies (HTML, CSS, JavaScript) to collaborate effectively with developers and ensure seamless implementation of designs.
+•	Collaborate with UI/UX designers to ensure designs are technically feasible and align with user experience standards.
+•	Migrated the legacy application to modern UI application using Next.js and AWS cloud
+•	Implement performance optimization techniques to ensure fast load times and smooth user experience.
+•	Utilize caching strategies, lazy loading, and other best practices for front-end performance.
+•	Work closely with backend developers to consume and integrate RESTful APIs and API endpoints.
+•	Ensure seamless data exchange between frontend and backend services.
+•	Review code submissions to ensure high-quality, maintainable, and scalable code, enforcing code standards and best practices within the development team.
+•	Conducted user research, usability testing, and heuristic evaluations to gather insights and improve the design process based on real user feedback.
+•	Collaborated closely with developers, product managers, and stakeholders to bridge the gap between design and development, ensuring a pixel-perfect UI implementation.
+•	Leveraged Figma’s auto layout, smart components, and plugins to streamline the design workflow and increase productivity.
+•	Developed and optimized Figma components, variants, and design tokens to create scalable and reusable UI elements for design consistency.
+•	Built interactive design prototypes in Figma with advanced animations and transitions to simulate real-world user interactions.
+•	Utilized Server-side catching of configuration tables for scalability, provide consistent data, and offer centralized control.
+•	Conducted extensive user research activities including stakeholder interviews, user interviews, and contextual inquiries to uncover pain points and behavioral patterns.
+•	Write efficient and optimized Python code for Lambda functions using factory pattern method and switch case concepts of Python.
+•	Ensured compliance with WCAG 2.1 accessibility standards by conducting accessibility audits and using tools like Axe, WAVE, and NVDA.
+•	Built and maintained scalable server-side applications using Node.js, enhancing the performance and reliability of
+web services.
+•	Integrated Node.js applications with MongoDB and PostgreSQL databases, ensuring efficient data management.
+•	Create and manage RESTful APIs using AWS API Gateway. Ensure secure and scalable API endpoints.
+•	Ensured all web applications and components adhered to WCAG (Web Content Accessibility Guidelines) standards, enhancing usability for users with disabilities.
+•	Designed intuitive user experiences for enterprise-grade web and mobile applications, streamlining complex workflows into clear, usable interfaces.
+•	Optimize backend services for performance and scalability and ensure consistent and reproducible development and production environments, implement security best practices to protect applications and data.
+•	Deploy applications using blue/green deployment to ensure zero-downtime releases.
+•	Worked in Agile/Scrum environments, participating in daily stand-ups, sprint planning, and retrospectives to support iterative UX delivery.
+•	Excellent communication skills to present design concepts, work closely with cross-functional teams, and align designs with business goals.
+•	Participated in various stages of application development, including requirement analysis, development, testing, and
+deployment.
+•	Implemented Agile and Scrum methodologies, following a test-driven development (TDD) approach and collaborating with developers and end-users to design and implement new features throughout the framework.
+
+Environment: Next.js, typescript, Angular.Js, AWS, Rest API, Fetch, Web Socket, Web Hook, Terraform, Jenkins, Lambda, Raw S3, SNS, SQS, API Gateway, API Token, JSON, XML, Pseudo Access, Win SCP, Putty, Vault, Secrets Manager, CloudWatch, RDS Proxy, Docker, Hadoop, Lambda, Postman, Node.js, VS code, Reverse Engineering, Git, Gitlab, yarn, npm.
+
+
+Client: State Farm, Bloomington, IL.	Jan 2022 – Feb 2024
+Role: UI/UX Developer Responsibilities:
+•	Gathered and analyzed requirements, converting them into User Requirement Specifications (URS) and Functional Requirement Specifications (FRS) for designers and developers using tools like Jira or Trello for project management.
+•	Designed intuitive interfaces for policy management, claims submission, and tracking.
+•	Applied usability best practices to simplify complex insurance workflows.
+•	Built modular Reactjs components integrated with backend APIs for claims and policy data.
+•	Collaborated with ServiceNow teams to integrate portal requests into incident workflows.
+•	Developed cross-browser compatible and responsive UIs using HTML5 and CSS3.
+•	Participated in code reviews, ensuring code quality, performance, and adherence to standards.
+•	Provided knowledge transfer and documentation for future scalability.
+•	Developed applications using Angular, HTML5, and CSS3 for widget alignment and JavaScript, with a focus on component-based design for positioning. Used React libraries such as React Router for routing and Redux for state management.
+•	Created responsive and mobile-first UI designs, ensuring adaptability across various screen sizes and devices.
+•	Worked on end-to-end UX/UI design for multiple projects, from initial concept and wireframing to final visual design
+and developer handoff using Figma’s Dev Mode.
+•	Integrated brand identity and design guidelines into UI designs, maintaining a consistent visual language across digital products.
+•	Proficient in design and prototyping tools such as Figma, Adobe XD, Sketch, InVision, and Axure RP to build interactive mockups and high-fidelity prototypes.
+•	Developed responsive web and mobile app designs that adhere to industry best practices and accessibility standards.
+•	Worked closely with front-end developers to ensure the successful implementation of designs.
+•	Created web presentation layers using HTML5 and CSS3, adhering to internal standards and guidelines. Utilized a CSS preprocessor like SASS or LESS for efficient styling. Implemented client-side validation using JavaScript and jQuery.
+•	Assisted in creating wireframes and prototypes using Figma for upcoming web projects.
+•	Developed dynamic and multi-browser compatible web pages, internal application based on W3C standards using React, HTML5, CSS3, and JavaScript. Utilized React hooks and functional components for better code organization and reusability.
+•	Applied interaction design principles to create responsive layouts, intuitive navigation patterns, and effective information hierarchies.
+•	Built a collaborative task management tool using React, Redux, and Node.js, enabling real-time updates and user interactions. Utilized a server-side rendering framework like Next.js for improved initial page load performance.
+•	Built a single-page application (SPA) using React, HTML5, CSS3, and a web server like Nginx, enabling users to book, cancel, and modify loads while connecting to the backend service and database.
+•	Utilized React features like conditional rendering, JSX syntax, and form validation libraries such as Formic or React Hook Form.
+•	Implemented the latest ES6 features, such as arrow functions, writing concise and readable code, improving development efficiency.
+•	Facilitated design thinking workshops and whiteboarding sessions to align cross-functional teams on UX direction.
+•	Integrated RESTful Web API services to generate data for the application using React for account management, transaction history, fund transfers, and bill payments. Also, I used Axios, Fetch API for making HTTP requests.
+•	Developed web pages using React framework, working with React components and managing state using React state management solutions like Redux, Context API.
+•	Built responsive single-page applications (SPA) using React and tools like Create React App, Next.js for project setup and optimization. Leveraged Jest and JUnit for unit testing, achieving test coverage and enhancing code quality.
+•	Implemented responsive web design (RWD) using CSS frameworks like Bootstrap, adapting layouts to different viewing environments using fluid grids, flexible images, and CSS3 media queries.
+•	Developed cross-platform mobile applications using React Native and relevant development tools like React Native CLI for iOS and Android platforms.
+•	Developed interactive web maps using ESRI's JavaScript API, providing users with intuitive geographical data visualization and analysis tools.
+•	Utilized React Native CLI and development environments to create and configure mobile app projects.
+•	Worked with native device features and APIs, including camera, geolocation, and push notifications, using React Native's built-in modules or third-party libraries.
+•	Conducted data analysis to identify trends, opportunities, and issues, providing valuable recommendations for process improvements by creating automated reports using Power BI
+•	Implemented AJAX for customer registration and view customer information modules, using React's Axios or Fetch API for asynchronous data retrieval.
+•	Utilized jQuery for improved user experience, incorporating features like Validation Engine, Data Table, and Dynamic Charts into React applications.
+•	Participated in various stages of application development, including requirement analysis, development, testing, and
+deployment.
+•	Implemented Agile and Scrum methodologies, following a test-driven development (TDD) approach and collaborating with developers and end-users to design and implement new features throughout the framework.
+Environment: JavaScript, React Native, React, XHTML, MySQL, React Native CLI, React.JS, Node.JS, EXT.JS, AWS (EC2, Lambda, S3, RDS, SQS, DynamoDB, and CloudFormation), RWD,Sketch, Web map, GCP Google Maps API, SPA, jQuery, AJAX, JSON, Grafana, Figma, Adobe Photoshop, SASS, LESS, Agile and Windows.
+
+       Client: GSV Soft Systems, Hyderabad.	July 2016 – Aug 2021
+Role: React UI/UX Developer Responsibilities:
+•	Developed and maintained responsive and scalable web applications using React, Redux, and React Router thatmeets business needs and user goals.
+•	Collaborated closely with UI/UX designers to transform wireframes using Figma and mockups into user-friendly and visually appealing e-commerce website interfaces to enhance the overall user experience.
+•	Developed the User Interactive webpages in a professional manner with using web technologies like HTML 5, XHTML, and CSS 3 as per company’s standards to create dynamic and server-rendered HTML views in Spring Boot, resulting in faster load times and improved SEO.
+•	Developed client-side validation code using JavaScript and jQuery. Implemented features like login page, push notifications, and geolocation services.
+•	Used React.js for developing generic components like, customize DataGrid, navbars, form components and developed reusable components.
+•	Utilized Figma’s Auto Layout feature to streamline the creation of responsive and adaptable designs for different screen sizes.
+•	Leveraged Figma’s collaboration tools to conduct live design reviews, collect feedback, and iterate designs efficiently with cross-functional teams
+•	Used to update the HTML pages using JQUERY, AJAX via JSON response, used Dreamweaver to develop and maintain web pages and templates.
+•	Implemented state management using Redux, ensuring efficient data flow and predictable application state.
+•	Utilized Git and GitHub/Bitbucket for version control, ensuring collaborative code development and effective team coordination.
+•	Conducted design QA by reviewing builds against specs, ensuring pixel-perfect implementation and user experience alignment.
+•	Integrated with backend APIs using Axios and Fetch API, fetching and manipulating data from server-side endpoints.
+•	Implemented automated testing using Jest, Enzyme, and Cypress, resulting in improved code quality and reduced bugs. Employed Yarn for efficient package management and dependency resolution.
+•	Collaborated with backend developers to integrate payment gateways, availability calendars, and booking systems.
+•	Used AJAX and JSON to make asynchronous calls to the project server to fetch data on the fly.
+•	Utilized build tools like webpack and Parcel to bundle and optimize applications for production deployment.
+•	Collaborated with DevOps teams to deploy applications using platforms like Netlify, Heroku, and AWS Amplify.
+•	This contributed to the development of a mobile application using Flutter, resulting in positive user feedback and a 4.8- star rating on app stores.
+•	Conducted code reviews, provided technical guidance, and mentored junior developers to ensure best practices and code quality.
+•	Implemented microservices architecture to decouple frontend and backend systems, improving scalability and maintainability.
+•	Used Storybook to Document & Catalog a React UI Component Library
+•	Troubleshot and debugged complex issues to ensure smooth functioning of the application.
+•	Experience in the Agile Development Process using SCRUM methodology and usage of TDD and Jira.
+
+Environment: JavaScript (ES6+), HTML5, CSS3, React, Redux, React Router, Git, npm, Yarn, GitHub, Bitbucket, Gulp, Grunt, webpack, Parcel, Chrome DevTools, Firefox Developer Tools, Sass, Less, Redux, Redux, API, Axios, Fetch API, AJAX, Jest, Enzyme, Cypress, webpack, Parcel, Netlify, Heroku, AWS, Figma, Adobe Photoshop, Storybook, Linux.
+
+
